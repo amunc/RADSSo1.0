@@ -13,4 +13,4 @@ Before using RADSSo for the first time, check that you are running python 2.7 ve
 
    -  pip install -r requirements.txt
    
-For complete information about how to use RADSSo please check the RADSSo user manual at https://github.com/amunc/RADSSo/blob/master/Manuals/RADSSo10_user_manual.pdf.
+For complete information about how to use RADSSo please check the RADSSo user manual at https://github.com/amunc/RADSSo1.0/blob/master/Manuals/RADSSo10_user_manual.pdf.
