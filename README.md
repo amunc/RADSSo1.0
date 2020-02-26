@@ -1,4 +1,4 @@
-# RADSSo
+# RADSSo 1.0
 RIASC Automated Decision Support Software (RADSSo) 1.0 under GPLv3
 
 RADSSo makes use of :
